@@ -1,0 +1,41 @@
+.lu{
+  font-size: 4.5vw;
+  font-weight: 100;
+  line-height: 1.2;
+  color:#50E3C2;
+        letter-spacing: -0.5px;
+        text-transform: uppercase;
+
+;
+}
+
+h1{
+  padding-top: 1rem;
+  font-size: 4.5vw;
+  font-weight: 100;
+  line-height: 1.2;
+}
+
+p{
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  width:100%;
+  line-height: 1.8;
+  font-size: 1.5vw;
+  font-weight: 100;
+}
+
+
+.social li {
+  display: inline-block;
+}
+
+.social li:nth-child(2) {
+  margin-left: 0.5rem;
+}
+
+.social li:nth-child(3) {
+  margin-left: 0.5rem;
+}
+
+

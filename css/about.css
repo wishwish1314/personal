@@ -1,0 +1,91 @@
+
+/* project-title*/
+
+.about {
+ padding: 0 10rem;
+  max-width: 71.25rem;
+  margin-top: 4rem;
+}
+
+.email{
+  text-transform: lowercase;
+      font-weight: 300;
+    line-height: 1.75;
+    font-size:1vw;
+      letter-spacing: 0.5px;
+
+}
+
+.description {
+ padding: 0 10rem;
+  max-width: 71.25rem;
+  width: 100%
+
+
+}
+
+/* project*/
+
+h1{
+  font-size:18px;
+    letter-spacing: 0.5px;
+  font-weight: 600;
+}
+
+h3{
+   padding-top: 2rem;
+   line-height: 2;
+   font-size:18px;
+  color:black;
+  letter-spacing: 0.5px;
+  font-weight: 600;
+
+}
+p{
+    color:black;
+      letter-spacing: 0.5px;
+   line-height: 1.75;
+
+    font-weight: 300;
+    font-size:1rem;
+    -webkit-font-smoothing: antialiased;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+
+
+/* project lists*/
+
+.about ul{
+  margin-left: 1rem;
+  list-style-type: square;
+  margin-top: 1rem;
+}
+
+.about li{
+  line-height: 1.7rem;
+  font-size: 1vw;
+  font-weight: 300;
+    letter-spacing: 0.5px;
+
+}
+
+
+
+/*blockquote*/
+
+blockquote{
+    padding: 10px 20px;
+    margin: 0 0 20px;
+    font-size: 17.5px;
+    line-height: 1.8rem;
+    border-left: 5px solid #50E3C2;
+    font-weight: 200;
+    color: grey;
+
+
+}
+
