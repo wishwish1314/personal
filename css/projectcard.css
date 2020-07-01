@@ -42,7 +42,6 @@ img:hover {
   display: block;
 }
 
-
 .img-content-hover {
   z-index: 1;
   white-space: nowrap;
@@ -50,26 +49,26 @@ img:hover {
   padding: 1rem;
   background: #fff;
   font-weight: 300;
-  margin-top: 1.25rem;
-  margin-left: -2rem;
+  margin-top: -10rem;
+  margin-left:0rem;
+  position: absolute;
 }
 
 .title {
   color: #2e2e2e;
-  font-size: 1.5rem;
+  font-size: 1rem;
   font-weight: 700;
 }
 
 .category {
-  font-size: 1rem;
+  padding-top: 0.5rem;
+  font-size: 0.75rem;
   color: #787878;
 }
 
 .img-content {
   display: none;
 }
-
-
 
 footer {
   padding: 1rem 0;
