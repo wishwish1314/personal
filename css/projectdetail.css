@@ -29,6 +29,16 @@
 }
 
 
+.highlight-title{
+  color:grey !important;
+}
+
+.highlight-question{
+    font-size:1.2rem !important;
+    font-weight: 600 !important;
+}
+
+
 .project .center img{
   padding-top: 10rem;
   padding-bottom: 10rem;
@@ -88,8 +98,8 @@
   margin-bottom: 0px ;
   padding-bottom: 0px ;
    color:black;
-   font-size:5rem;
-   line-height: 1.5;
+   font-size:3rem;
+   line-height: 1.5
    -webkit-font-smoothing: antialiased;
     margin-top: 2rem;
   font-weight: 800 ;
@@ -97,7 +107,8 @@
 }
 
 .project-title p{
-  margin-top: 0px ;
+  font-size:1rem;
+  margin-top: 10px ;
   padding-top: 0px ;
   display: flex;
   align-items: center;
@@ -113,6 +124,7 @@
 
 .project h3{
    padding-top: 1rem;
+   padding-right: 2rem;
    line-height: 2;
    font-size:18px;
   color:black;
@@ -135,6 +147,7 @@
 
 
 
+
 /* project lists*/
 
 .project ul{
@@ -148,6 +161,7 @@
   line-height: 1.8rem;
   font-size: 1vw;
   font-weight: 300;
+  padding-bottom: 0.2rem;
 }
 
 
