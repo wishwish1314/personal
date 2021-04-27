@@ -1,5 +1,5 @@
 .lu{
-  font-size: 4.5vw;
+  font-size: 3.5vw;
   font-weight: 100;
   line-height: 1.2;
   color:#50E3C2;
@@ -17,19 +17,27 @@
 
 }
 
+li{
+  line-height: 1.8;
+  font-size: 1.2vw;
+  font-weight: 100;
+  padding-top: 0.8rem;
+}
+
 h1{
   padding-top: 1rem;
-  font-size: 4.5vw;
+  padding-bottom: 1rem;
+  font-size: 3vw;
   font-weight: 100;
   line-height: 1.2;
+  width:100%;
 }
 
 p{
-  padding-top: 2rem;
-  padding-bottom: 2rem;
+  padding-top: 0.8rem;
   width:100%;
   line-height: 1.8;
-  font-size: 1.5vw;
+  font-size: 1.2vw;
   font-weight: 100;
 }
 
