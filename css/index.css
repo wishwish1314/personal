@@ -67,9 +67,9 @@ letter-spacing: 0.5px;
 }
 
 .item{
-  background-color: #f6f6f6;
+  background-color: #555;
   margin-top:1rem;
-  color:#282828;
+  color:#555555;
 }
 
 .item p{
