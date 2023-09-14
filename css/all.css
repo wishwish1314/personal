@@ -8,6 +8,15 @@
   box-sizing: border-box;
 }
 
+.small{
+  font-size: 0.8rem;
+  padding: 0 0rem;
+
+}
+
+.big{
+  margin-bottom: 2rem;
+}
 
 body {
   font-family: 'Merriweather', serif;
