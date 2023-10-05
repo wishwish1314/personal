@@ -8,6 +8,17 @@
   box-sizing: border-box;
 }
 
+
+h1{
+  font-family: Arial;
+  font-weight: 600;
+/*  text-transform: uppercase;*/
+}
+
+ul{
+  padding-bottom: 10px;
+}
+
 .small{
   font-size: 0.8rem;
   padding: 0 0rem;
