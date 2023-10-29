@@ -134,10 +134,10 @@
 }
 .project p{
     color:black;
-    font-weight: 300;
+    font-weight: 400;
     letter-spacing: 0.5px;
     font-size:1rem;
-    line-height: 1.75;
+    line-height: 1.65;
     -webkit-font-smoothing: antialiased;
     margin-block-start: 1em;
     margin-block-end: 1em;
